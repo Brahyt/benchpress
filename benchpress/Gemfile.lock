@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    OptionParser (0.5.1)
+    awesome_print (1.9.2)
+    curl (0.0.9)
+      awesome_print (>= 0.2.1)
+      unidecoder (>= 1.1.1)
+    unidecoder (1.1.2)
+
+PLATFORMS
+  x86_64-darwin-19
+
+DEPENDENCIES
+  OptionParser (~> 0.5.1)
+  curl (~> 0.0.9)
+
+BUNDLED WITH
+   2.2.3
